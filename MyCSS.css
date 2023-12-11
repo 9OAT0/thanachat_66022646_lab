@@ -1,6 +1,6 @@
 body{
-    position: absolute;
-    left: 25%;
+
+
 }
 .flex-con{
     display: flex;
@@ -10,6 +10,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 .flex-header{
     font-size: 54px;
@@ -23,6 +24,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 .flex-navi-word{
     font-size: 25px;
@@ -32,6 +34,7 @@ body{
     width: 1000px;
     height: 550px;
     background-color: lightblue;
+    margin: auto;
 }
 .lorem{
     margin: 7px;
@@ -45,6 +48,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: auto;
 }
 .footer{
     font-size: 50px;
